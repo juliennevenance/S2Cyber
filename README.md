@@ -2,7 +2,7 @@
 S2cyber | Expertise en Cybersécurité &amp; Conformité Numérique au Sénégal. Audit, Pentesting et Gouvernance . ”L'énergie de la tech, la maîtrise du risque”
 
 # 🛡️ S2cyber 
-### "L'audace technique, la sérénité juridique."
+### "L'énergie de la tech, la maîtrise du risque."
 
 Bienvenue sur le portfolio de **S2cyber**. Nous sommes une équipe spécialisée en cybersécurité offensive et en conformité numérique, basée au Sénégal. 
 
